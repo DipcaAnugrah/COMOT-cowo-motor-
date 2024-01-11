@@ -1,3 +1,12 @@
+```
+Kelompok 4
+- Hasbi Assidiki        312210448
+- Nurul Akbar           312210413
+- Dipca Anugrah         312210666
+- Ahmad Hapizhudin      312210370
+```
+
+
 # COMOT (Cowo Motor)
 
 COMOT (Cowo Motor) adalah aplikasi web yang dibangun dengan Django, memungkinkan pengguna untuk menyewa motor.
